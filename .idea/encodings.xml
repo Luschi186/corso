@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1252">
+    <file url="file://C:/Maven/limits-services" charset="UTF-8" />
+    <file url="file://C:/Maven/restful-web-services" charset="UTF-8" />
+    <file url="file://C:/Maven/spring-cloud-config-server" charset="UTF-8" />
+  </component>
+</project>

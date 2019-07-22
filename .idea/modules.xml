@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/Maven/limits-services/limits-services.iml" filepath="C:/Maven/limits-services/limits-services.iml" />
+      <module fileurl="file://C:/Maven/restful-web-services/restful-web-services.iml" filepath="C:/Maven/restful-web-services/restful-web-services.iml" />
+      <module fileurl="file://C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" />
+    </modules>
+  </component>
+</project>
